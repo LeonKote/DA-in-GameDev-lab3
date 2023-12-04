@@ -47,7 +47,7 @@
 ## Задание 2
 ### Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 
-- см. [каталог](https://github.com/LeonKote/DA-in-GameDev-lab3/tree/master/UnityDataScience) с проектом.
+- см. [каталог](https://github.com/LeonKote/DA-in-GameDev-lab3/tree/master/DragonPickerDefault) с проектом.
 - см. [каталог](https://github.com/LeonKote/DA-in-GameDev-lab3/tree/master/DragonPickerDefault/Assets/_Scenes/_GameScenes) со сценами.
 
 ## Задание 3
